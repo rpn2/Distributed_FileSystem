@@ -1,0 +1,6 @@
+*.pyc
+*.log
+test_files
+*.zip
+*.swp*
+*block*
